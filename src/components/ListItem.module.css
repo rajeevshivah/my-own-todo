@@ -1,0 +1,18 @@
+.list_item {
+  display: flex;
+}
+
+.button_function {
+  width: 150px;
+  height: 40px;
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+  pointer-events: none;
+}
+
+span {
+  width: 16%;
+  height: max-content;
+  margin-bottom: 15px;
+}
